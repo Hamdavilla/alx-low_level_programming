@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main- serves as the starting point for program execution*
- * Return: ends the execution of a function, and returns control to the calling function 
+ * main- the starting point for program execution
  *
- * Return: is 0
+ * Return: ends the execution of function
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle);
